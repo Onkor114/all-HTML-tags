@@ -17,6 +17,8 @@
 <p>This project is a comprehensive guide to learning HTML and CSS. It includes a series of exercises and projects that will help you understand and apply the concepts of web development. Whether you are a beginner or looking to refresh your skills, this project is for you.</p>
 <h2>Project Structure</h2> 
 <p>The project is organized as follows:</p>
+<pre>
+\```
 html-css-learning-project/
 ├── index.html
 ├── styles/
@@ -30,5 +32,14 @@ html-css-learning-project/
 │   │   └── style.css
 │   └── ...
 └── README.md
+
+\```
+</pre>
+
+<ol>
+  <li><b>index.html:</b> The main HTML file for the project.</li>
+  <li><b>styles/:</b> Directory containing CSS files.</li>
+  <li> <b>projects/: </b> Directory containing individual projects and exercises.</li>
+</ol>
 
 
