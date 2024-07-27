@@ -47,13 +47,13 @@ html-css-learning-project/
 To get started, clone this repository to your local machine:
 
 <pre>
-git ```clone https://github.com/Onkor114/learn-HTML-as-it-is.git
+git clone https://github.com/Onkor114/learn-HTML-as-it-is.git
   </pre>
 
   Navigate to the project directory:
 
   <pre>
-    learn-HTML-as-it-is
+   cd learn-HTML-as-it-is
   </pre>
 ## Usage
 Open the index.html file in your web browser to view the main page of the project. You can also navigate to the individual projects and exercises located in the projects/ directory.
@@ -84,17 +84,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://example.com/docs) file for details.
-
-
-# My Project
-
-This is a sample project.
-
-## Documentation
-
-For more information, visit the [official documentation](https://example.com/docs).
-
-## Resources
-
-- [Google](https://www.google.com)
-- [GitHub](https://www.github.com "GitHub Homepage")
