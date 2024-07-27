@@ -73,17 +73,17 @@ By the end of this project, you should be able to:
 Here are some resources to help you along the way:
 
 
-  - MDN Web Docs.com(https://developer.mozilla.org/en-US/docs/Web)
-  - W3Schools(https://www.w3schools.com/)
-  - CSS Tricks(https://css-tricks.com/)
-  - HTML & CSS: Design and Build Websites by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+  - [W3Schools](https://www.w3schools.com/)
+  - [CSS Tricks](https://css-tricks.com/)
+  - [HTML & CSS: Design and Build Websites by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. We welcome all contributions that improve the project and help others learn HTML and CSS.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE(https://example.com/docs) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://example.com/docs) file for details.
 
 
 # My Project
