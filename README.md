@@ -36,10 +36,17 @@ html-css-learning-project/
 \```
 </pre>
 
-<ol>
+<ul>
   <li><b>index.html:</b> The main HTML file for the project.</li>
   <li><b>styles/:</b> Directory containing CSS files.</li>
   <li> <b>projects/: </b> Directory containing individual projects and exercises.</li>
-</ol>
+</ul>
+
+<h2>Installation</h2>
+<p>To get started, clone this repository to your local machine:</p>
+
+<pre>
+
+  </pre>
 
 
