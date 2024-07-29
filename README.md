@@ -82,5 +82,4 @@ Here are some resources to help you along the way:
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. We welcome all contributions that improve the project and help others learn HTML and CSS.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://example.com/docs) file for details.
+
