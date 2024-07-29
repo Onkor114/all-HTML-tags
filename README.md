@@ -19,7 +19,6 @@ This project is a comprehensive guide to learning HTML and CSS. It includes a se
 ## Project Structure
 The project is organized as follows:
 <pre>
-\```
 html-css-learning-project/
 ├── index.html
 ├── styles/
@@ -33,8 +32,6 @@ html-css-learning-project/
 │   │   └── style.css
 │   └── ...
 └── README.md
-
-\```
 </pre>
 
 
