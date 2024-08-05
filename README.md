@@ -19,7 +19,6 @@ This project is a comprehensive guide to learning HTML and CSS. It includes a se
 ## Project Structure
 The project is organized as follows:
 <pre>
-\```
 html-css-learning-project/
 ├── index.html
 ├── styles/
@@ -33,8 +32,6 @@ html-css-learning-project/
 │   │   └── style.css
 │   └── ...
 └── README.md
-
-\```
 </pre>
 
 
@@ -82,5 +79,4 @@ Here are some resources to help you along the way:
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. We welcome all contributions that improve the project and help others learn HTML and CSS.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://example.com/docs) file for details.
+
